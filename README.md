@@ -1,5 +1,5 @@
 # GDataViz
-Visualizing Personal Google Location Data Using python
+Visualizing Personal Google Location Data using Python
 
 Google collects a lot of data. This project visualizes 6 years of personal location data collected by Google and exported via Google Takeout. Python is used to aggregate the data and visualize it using the Bokeh  library.
 
